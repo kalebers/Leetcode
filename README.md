@@ -1,2 +1,2 @@
 ### print("Hello World")
-Repository for Leetcode challenges solutions, using different languages.
+Repository for Leetcode challenge solutions, using different languages.
