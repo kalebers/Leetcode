@@ -1,3 +1,4 @@
+# TODO: something is wrong is the missing_type function
 # Case definition:
 # A password is considered strong if the below conditions are all met:
 
