@@ -40,8 +40,6 @@ class Solution {
     }
 
     private string GetBestGuess(List<string> candidates) {
-        // Implement a simple strategy to choose the best guess.
-        // For simplicity, you can just choose the first candidate in the list.
         return candidates[0];
     }
 
